@@ -23,8 +23,17 @@
     
     <entry>
       <title><![CDATA[test-blog]]></title>
+      <url>/2018/02/14/test-blog/</url>
+      <content type="html"><![CDATA[<p>测试文章<br>0903ceshi</p>
+]]></content>
+      
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[如何在五天之内快速验证产品原型？]]></title>
       <url>/2018/02/14/20180903/</url>
-      <content type="html"><![CDATA[<h2 id="如何在五天之内快速验证产品原型？"><a href="#如何在五天之内快速验证产品原型？" class="headerlink" title="如何在五天之内快速验证产品原型？"></a>如何在五天之内快速验证产品原型？</h2><p>《设计冲刺，谷歌风投如何5天完成产品迭代》<br>Sprint.How to solve big problems and test new ideas in just five days.</p>
+      <content type="html"><![CDATA[<p>《设计冲刺，谷歌风投如何5天完成产品迭代》<br>Sprint.How to solve big problems and test new ideas in just five days.</p>
 <h3 id="一次解决一个核心问题"><a href="#一次解决一个核心问题" class="headerlink" title="一次解决一个核心问题"></a>一次解决一个核心问题</h3><p>开发了几个月，投入了大量的成本，才发现方向错误，如何避免这种状况？<br>面对混乱的局面，如何理清最重要的问题？<br>方案如何落地的原型并且快速拿到真实有效的用户反馈？</p>
 <p>设计冲刺，可以一定程度上避免这个问题，这是一个可以快速验证产品原型是否可行的方法论。不仅可以用在大公司，也可以用于创于公司，不仅可以用于软件行业，也可以用于实体产品，那么这个方法是如何进行呢？</p>
 <p>作者认为，五天时间，七人左右的团队，在一个安静的会议室，和几个目标用户，就可以完成这个过程。<br>周一到周五，完整的五天工作日，有利于最小时间单位内把整个冲刺流程走一遍，并且不至于被周末打断；<br>七人的团队，并不是一成不变，但是需要包括</p>
@@ -47,14 +56,11 @@
 ]]></content>
       
         
-    </entry>
-    
-    <entry>
-      <title><![CDATA[test-blog]]></title>
-      <url>/2018/02/14/test-blog/</url>
-      <content type="html"><![CDATA[<p>测试文章<br>0903ceshi</p>
-]]></content>
-      
+        <tags>
+            
+            <tag> 读书笔记 </tag>
+            
+        </tags>
         
     </entry>
     
